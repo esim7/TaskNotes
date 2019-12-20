@@ -1,0 +1,8 @@
+C:\Users\home\Desktop\18 12\NotesApp\Domain\bin\Debug\netcoreapp3.0\Domain.deps.json
+C:\Users\home\Desktop\18 12\NotesApp\Domain\bin\Debug\netcoreapp3.0\Domain.dll
+C:\Users\home\Desktop\18 12\NotesApp\Domain\bin\Debug\netcoreapp3.0\Domain.pdb
+C:\Users\home\Desktop\18 12\NotesApp\Domain\obj\Debug\netcoreapp3.0\Domain.csprojAssemblyReference.cache
+C:\Users\home\Desktop\18 12\NotesApp\Domain\obj\Debug\netcoreapp3.0\Domain.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\18 12\NotesApp\Domain\obj\Debug\netcoreapp3.0\Domain.AssemblyInfo.cs
+C:\Users\home\Desktop\18 12\NotesApp\Domain\obj\Debug\netcoreapp3.0\Domain.dll
+C:\Users\home\Desktop\18 12\NotesApp\Domain\obj\Debug\netcoreapp3.0\Domain.pdb

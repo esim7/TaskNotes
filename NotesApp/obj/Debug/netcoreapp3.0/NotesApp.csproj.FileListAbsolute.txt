@@ -1,0 +1,70 @@
+C:\Users\МакишевЕ\source\repos\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\NotesApp.exe
+C:\Users\МакишевЕ\source\repos\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\NotesApp.deps.json
+C:\Users\МакишевЕ\source\repos\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\NotesApp.runtimeconfig.json
+C:\Users\МакишевЕ\source\repos\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\NotesApp.runtimeconfig.dev.json
+C:\Users\МакишевЕ\source\repos\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\NotesApp.dll
+C:\Users\МакишевЕ\source\repos\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\NotesApp.pdb
+C:\Users\МакишевЕ\source\repos\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\NotesApp.csprojAssemblyReference.cache
+C:\Users\МакишевЕ\source\repos\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\МакишевЕ\source\repos\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\МакишевЕ\source\repos\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\NotesApp_MarkupCompile.cache
+C:\Users\МакишевЕ\source\repos\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\NotesApp_MarkupCompile.lref
+C:\Users\МакишевЕ\source\repos\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\МакишевЕ\source\repos\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\NotesApp.g.resources
+C:\Users\МакишевЕ\source\repos\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\NotesApp.AssemblyInfoInputs.cache
+C:\Users\МакишевЕ\source\repos\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\NotesApp.AssemblyInfo.cs
+C:\Users\МакишевЕ\source\repos\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\NotesApp.dll
+C:\Users\МакишевЕ\source\repos\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\NotesApp.pdb
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\NotesApp.exe
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\NotesApp.deps.json
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\NotesApp.runtimeconfig.json
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\NotesApp.runtimeconfig.dev.json
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\NotesApp.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\NotesApp.pdb
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\NotesApp.csprojAssemblyReference.cache
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\NotesApp_MarkupCompile.cache
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\NotesApp_MarkupCompile.lref
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\NotesApp.g.resources
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\NotesApp.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\NotesApp.AssemblyInfo.cs
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\NotesApp.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\NotesApp.pdb
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Domain.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Domain.pdb
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\obj\Debug\netcoreapp3.0\NotesApp.csproj.CopyComplete
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Context.dll
+C:\Users\home\Desktop\18 12\NotesApp\NotesApp\bin\Debug\netcoreapp3.0\Context.pdb
